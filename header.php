@@ -4,6 +4,8 @@
 <head>
     
     <?php wp_head(); ?>
+    
 
     
 </head>
+<?php the_custom_logo(); ?>
